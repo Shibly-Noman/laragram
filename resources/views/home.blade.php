@@ -25,9 +25,6 @@
     </div>
 
     <div class="row pt-5">
-    </div>
-
-    <div class="row pt-5">
         <div class="col-4">
             <img src="https://instagram.fdac15-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/117340491_169386454714695_5588459756451191993_n.jpg?_nc_ht=instagram.fdac15-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=cGTIS30tq3gAX9Gl6oh&oh=c1249ce396c694b23590cd362eafaaac&oe=5F5F6226" class="w-100">
         </div>
