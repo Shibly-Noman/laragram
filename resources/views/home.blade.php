@@ -7,7 +7,7 @@
             <img src="https://static.toiimg.com/thumb/msid-67586673,width-800,height-600,resizemode-75,imgsize-3918697,pt-32,y_pad-40/67586673.jpg" class="rounded-circle" width="170px" height="110px">
         </div>
         <div class="col-9 pt-4" >
-            <div><h1>test-lara</h1></div>
+            <div><h1>{{ $user -> username }}</h1></div>
             <div class="d-flex">
                 <div class="pr-5"><strong>153</strong> posts</div>
                 <div class="pr-5"><strong>21k</strong> followers</div>
